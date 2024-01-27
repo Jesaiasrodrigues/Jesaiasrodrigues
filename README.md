@@ -21,3 +21,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesaiasrodrigues&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesaiasrodrigues&hide_progress=true&theme=dark)
+<img height="180em" src="
+https://github-readme-stats.vercel.app/api/top-langs/?username=jesaiasRodrigues&layout=compact&langs_count=10&theme=aura"/>
