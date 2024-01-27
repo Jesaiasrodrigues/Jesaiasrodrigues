@@ -20,5 +20,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesaiasrodrigues&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesaiasrodrigues&hide_progress=true&theme=dark)
-https://github-readme-stats.vercel.app/api/top-langs/?username=jesaiasRodrigues&layout=compact&langs_count=10&theme=aura
+![Top Languagem](https://github-readme-stats.vercel.app/api/top-langs/?username=jesaiasRodrigues&layout=compact&langs_count=10&theme=aura)
