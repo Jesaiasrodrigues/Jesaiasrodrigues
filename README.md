@@ -19,5 +19,5 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesaiasrodrigues&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesaiasrodrigues&show_icons=true&theme=aura)
 ![Top Languagem](https://github-readme-stats.vercel.app/api/top-langs/?username=jesaiasRodrigues&layout=compact&langs_count=10&theme=aura)
